@@ -1,0 +1,28 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "Tis is react by rajan",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Therajankumar/react_2.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "RAJAN KUMAR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Therajankumar/react_2/issues"
+  },
+  "homepage": "https://github.com/Therajankumar/react_2#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
